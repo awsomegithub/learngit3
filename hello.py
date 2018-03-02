@@ -1,4 +1,2 @@
-h
-e
-
-llo
+# -*- coding: utf-8 -*-
+print('hello, word.')
